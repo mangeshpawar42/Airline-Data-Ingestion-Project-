@@ -32,5 +32,4 @@ The Airline Data Ingestion project provided valuable learning experiences and pr
 
 Overall, overcoming these challenges and successfully implementing the Airline Data Ingestion pipeline enhanced my AWS skills and deepened my understanding of building scalable and reliable data pipelines in a cloud environment.
 
-
-- Mangesh Pawar
+Mangesh Pawar
