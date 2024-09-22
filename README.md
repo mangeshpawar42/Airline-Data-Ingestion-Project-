@@ -31,3 +31,6 @@ The Airline Data Ingestion project provided valuable learning experiences and pr
 - **Error Handling and Monitoring**: Implementing robust error handling mechanisms and monitoring solutions to detect and address pipeline failures in real-time proved to be challenging, requiring iterative refinement of the pipeline design.
 
 Overall, overcoming these challenges and successfully implementing the Airline Data Ingestion pipeline enhanced my AWS skills and deepened my understanding of building scalable and reliable data pipelines in a cloud environment.
+
+
+- Mangesh Pawar
